@@ -1,2 +1,2 @@
 # loja-cupcakes
- arquivos do app loja de cupvakes
+ arquivos loja de cupcakes
